@@ -9,3 +9,8 @@ Hoy es estudiante del Cohort 6 en Platzi Master
 Y hace una prueba más
 
 Quiero saber que pasa si agrego una linea en GitHub y aqui
+
+Y otra más... Hay que estar seguros #Agregada por mi
+
+Sí causa conflicto.
+Dos usuarios deberían tener cuidado en modificar una misma línea de código
